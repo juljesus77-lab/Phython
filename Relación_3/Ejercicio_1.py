@@ -6,6 +6,7 @@ if (edad >= 18):
 else:
 
     print ("Es menor")
+    
 
 
 
