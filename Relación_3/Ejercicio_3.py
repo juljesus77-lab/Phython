@@ -7,4 +7,3 @@ else:
     operacion =  float (num1 / num2)    #la operación dentro de la instrucción de donde se va a ejecutar
     print ("El resultado de la división es: "  + str(operacion) )
 
-#revisar
